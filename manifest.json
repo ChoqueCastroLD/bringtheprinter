@@ -1,0 +1,10 @@
+{
+  "id": "BringThePrinter",
+  "name": "Bring the Printer",
+  "author": "sotf-mods.com",
+  "version": "1.1.0",
+  "description": "Break a bunker 3D printer for parts, take its laptop and rebuild a working printer at your base from the blueprint book, powered by a solar panel.",
+  "loaderVersion": "0.8.6",
+  "type": "Mod",
+  "url": "https://sotf-mods.com/"
+}
